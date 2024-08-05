@@ -24,7 +24,7 @@ export const ProjectList = [
     title: "Post.Ai",
     description:
       "Created a micro-saas with Nextjs helping out creators with their social media posts.",
-    tech_stack: "Nextjs, TailwindCss, Shadcn,Material Ui",
+    tech_stack: "Nextjs,PostgreSQL,TailwindCss,Shadcn,Material Ui",
     github_url: "https://github.com/subhayand10/Post.Ai",
     demo_url: "https://post-ai-omega.vercel.app/",
   },
